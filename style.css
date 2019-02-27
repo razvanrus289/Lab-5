@@ -1,5 +1,17 @@
-h1{
+h1 {
     color: cyan;
     font-family: "Arial Black";
-    float: top;
+    position: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    height: 50px;
 }
