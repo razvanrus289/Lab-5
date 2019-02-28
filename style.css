@@ -35,6 +35,8 @@ table, th, td {
     border: 10px solid;
     border-color: #0C2231;
     font-family: 'Roboto Slab', serif;
+    background-color: #E35F75;
+    color: #0F2417;
 }
 
 th {
