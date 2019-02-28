@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    background: #479AD1;
 }
 
 /**
@@ -16,13 +17,14 @@ main {
 
 
 h1 {
-    color: cyan;
+    color: #0F2417;
     font-family: "Arial Black";
-    position: center;
+    text-align: center;
 }
 
 table {
     border-collapse: collapse;
+    position: 50%;
 }
 
 table, th, td {
