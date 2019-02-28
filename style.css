@@ -28,7 +28,6 @@ h1 {
 table {
     border-collapse: collapse;
     position: center;
-    align-items: center;
 }
 
 table, th, td {
