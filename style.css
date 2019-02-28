@@ -27,12 +27,12 @@ h1 {
 
 table {
     border-collapse: collapse;
-    position: 50%;
+    position: center;
     align-items: center;
 }
 
 table, th, td {
-    border: 10px solid;
+    border: 3px solid;
     border-color: #0C2231;
     font-family: 'Roboto Slab', serif;
     background-color: #E35F75;
