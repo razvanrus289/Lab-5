@@ -64,21 +64,21 @@ tr {
 }
 
 #earth {
-    max-width: 15%;
-    max-height: 15%;
+    width: 15px;
+    height: 15px;
 }
 
 #mars {
-    max-width: 15%;
-    max-height: 15%;
+    width: 15px;
+    height: 15px;
 }
 
 #jupitar {
-    max-width: 15%;
-    max-height: 15%;
+    width: 15px;
+    height: 15px;
 }
 
 #neptune {
-    max-width: 15%;
-    max-height: 15%;
+    width: 15px;
+    height: 15px;
 }
