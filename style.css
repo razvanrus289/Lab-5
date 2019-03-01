@@ -27,7 +27,6 @@ h1 {
 
 table {
     border-collapse: collapse;
-    position: center;
 }
 
 #table {
@@ -54,7 +53,7 @@ tr {
 
 .column {
     float: left;
-    width: 25%
+    width: 25%;
     padding: 5px;
     width:200px;
     height:40px;
