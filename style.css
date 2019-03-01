@@ -56,8 +56,6 @@ tr {
     float: left;
     width: 25%
     padding: 5px;
-    width:200px;
-    height:40px;
 }
 
 .row::after {
