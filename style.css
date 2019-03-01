@@ -62,3 +62,23 @@ tr {
     clear: both;
     display: table;
 }
+
+#earth {
+    max-width: 15%;
+    max-height: 15%;
+}
+
+#mars {
+    max-width: 15%;
+    max-height: 15%;
+}
+
+#jupitar {
+    max-width: 15%;
+    max-height: 15%;
+}
+
+#neptune {
+    max-width: 15%;
+    max-height: 15%;
+}
