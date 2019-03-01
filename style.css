@@ -46,6 +46,9 @@ table, th, td {
 th {
     height: 50px;
     text-align-all: left;
+}
+
+#row1 {
     margin-left: auto;
     margin-right: auto;
 }
