@@ -51,7 +51,7 @@ tr {
     align-content: center;
 }
 
-.column {
+#column {
     float: left;
     padding: 5px;
     width:25px;
@@ -60,7 +60,7 @@ tr {
     margin-right: auto;
 }
 
-.row::after {
+#row::after {
     content: "";
     clear: both;
     display: table;
